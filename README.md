@@ -1,4 +1,1 @@
-project-euler
-=============
-
-My solutions to Project Euler problems, written in Python
+Solutions to Project Euler problems
